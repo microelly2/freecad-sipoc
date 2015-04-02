@@ -84,7 +84,7 @@ class MyWidget(QtGui.QWidget):
 
 
 
-def createComp(name='MyComp', objlinks=[],liste=[]):
+def createSipoc(name='MySingePointController', objlinks=[],liste=[]):
 	obj = FreeCAD.ActiveDocument.addObject("App::DocumentObjectGroupPython",name)
 	
 	

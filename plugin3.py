@@ -2,5 +2,5 @@
 
 print "plugin three reloaded"
 def info():
-	return "Plugin Three"
+	return "Plugin Three sipoc version blabla"
 
